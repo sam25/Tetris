@@ -1,0 +1,30 @@
+c:\users\samy\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Samy\Documents\Visual Studio 2013\Projects\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\Samy\Documents\Visual Studio 2013\Projects\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Samy\Documents\Visual Studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.Tetris.resources
+C:\Users\Samy\Documents\Visual Studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Samy\Documents\Visual Studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\Samy\Documents\Visual Studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\Samy\Documents\Visual Studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Samy\documents\visual studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.Cell.resources
+C:\Users\Samy\documents\visual studio 2013\Projects\Tetris\Tetris\obj\Debug\Interop.WMPLib.dll
+C:\Users\Samy\documents\visual studio 2013\Projects\Tetris\Tetris\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Samy\documents\visual studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.csproj.ResolveComReference.cache
+C:\Users\Samy\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Debug\Interop.WMPLib.dll
+C:\Users\Samy\documents\visual studio 2013\Projects\Tetris\Tetris\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Samy\documents\visual studio 2013\Projects\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\SAMI\Google Drive\CSCD371_C#\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\SAMI\Google Drive\CSCD371_C#\Tetris\Tetris\obj\Debug\Interop.WMPLib.dll
+C:\Users\SAMI\Google Drive\CSCD371_C#\Tetris\Tetris\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\SAMI\Google Drive\CSCD371_C#\Tetris\Tetris\obj\Debug\Tetris.csproj.ResolveComReference.cache
+C:\Users\SAMI\Google Drive\CSCD371_C#\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\Users\SAMI\Google Drive\CSCD371_C#\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\SAMI\Google Drive\CSCD371_C#\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\Users\SAMI\Google Drive\CSCD371_C#\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\Users\SAMI\Google Drive\CSCD371_C#\Tetris\Tetris\bin\Debug\Interop.WMPLib.dll
+C:\Users\SAMI\Google Drive\CSCD371_C#\Tetris\Tetris\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SAMI\Google Drive\CSCD371_C#\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\SAMI\Google Drive\CSCD371_C#\Tetris\Tetris\obj\Debug\Tetris.Cell.resources
+C:\Users\SAMI\Google Drive\CSCD371_C#\Tetris\Tetris\obj\Debug\Tetris.Tetris.resources
+C:\Users\SAMI\Google Drive\CSCD371_C#\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\SAMI\Google Drive\CSCD371_C#\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
